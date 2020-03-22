@@ -1,0 +1,22 @@
+
+.hero-body-logo {
+    align-items: stretch;
+}
+
+.hero-body-logo img {
+    border: none;
+    box-shadow: none;
+    max-height:600px;
+    min-width:400px;
+    max-width:600px;
+    height:auto;
+    width:auto;
+
+}
+
+
+ 
+.content__form {
+    font-size: 0.7em;
+    margin-top: 1em;
+}
