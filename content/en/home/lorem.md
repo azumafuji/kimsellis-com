@@ -19,4 +19,4 @@ weight: 30
     - Thursday Power Vinyasa at 7:30 PM
     - Friday Slow flow at 8 AM
     
-**Private session are available**
+**Private sessions are available**
