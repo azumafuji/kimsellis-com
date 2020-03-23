@@ -1,4 +1,4 @@
-baseURL                          = "https://azumafuji.github.io/kimsellis-com/"  # Your domain name. Must end with "/"
+baseURL                          = "https://kimsellis.com/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
@@ -84,7 +84,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Kim Sellis Yoga"
         [languages.en.params]
             description  = "West London Yoga teaching in Chiswick and available for private sessions."   # Max 160 characters show in search results
-            footerText   = "Yoga is great because anyone can do it!"                      # Text to override default footer text (markdown allowed)
+            footerText   = "© Copyright 2020 - Kim Sellis"                      # Text to override default footer text (markdown allowed)
 
     # [languages.es]
     #     languageName     = "Español"
