@@ -3,7 +3,10 @@ title: "Where to join a class"
 weight: 30
 ---
 
-**Due to the current COVID-19 outbreak, all classes and private sessions are on-hold.  Hopefully the UK wide social distancing will end soon and classes will resume.**
+**While we're all self isolating, you can join me on [my YouTube channel](https://www.youtube.com/channel/UCHH2vOSl0Qxpv7Lw9wv45Sg).**
+
+
+Due to the current COVID-19 outbreak, all classes and private sessions are on-hold.  Hopefully the UK wide social distancing will end soon and classes will resume.
 
 **Chiswick Yoga at the Chiswick Catholic Centre** 
    - _2 Dukes Avenue, Chiswick, London W4 2AE_
