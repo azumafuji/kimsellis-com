@@ -7,13 +7,16 @@ weight: 30
 
 
 **Starting July 10, 2020 - New Yoga Classes in the Park**
-  - Sunday  9-10am          Chiswick Common   Slow Flow, all levels welcome
-  - Tuesday 7:30 - 8:30am   Chiswick Common   Slow Flow, all levels welcome
-  - Friday  8-9am           Chiswick Common   Slow Flow, all levels welcome
+
+Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
+  - Sunday  9-10am 
+  - Tuesday 7:30 - 8:30am
+  - Friday  8-9am
+
 Join the mailing list for more information.  Class sizes are limited to 5 participants.  Days and times may vary depending on the weather. Contact me to register your interest in mid-morning and evening classes in the park.
 
 **Online Yoga**
-  - Saturday 9am  Online  Yoga for Strength, intermediates
+  - Saturday 9am, Yoga for Strength, intermediates
     - Watch this space for additional classes 
 
 **Chiswick Yoga at the Chiswick Catholic Centre** 
