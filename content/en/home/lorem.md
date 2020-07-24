@@ -7,12 +7,13 @@ weight: 30
 
 
 **Starting July 10, 2020 - New Yoga Classes in the Park**
-
-Join the mailing list for more information.  Class sizes are limited to 5 participants.  Days and times may vary depending on the weather.
+  - Sunday  9-10am          Chiswick Common   Slow Flow, all levels welcome
+  - Tuesday 7:30 - 8:30am   Chiswick Common   Slow Flow, all levels welcome
+  - Friday  8-9am           Chiswick Common   Slow Flow, all levels welcome
+Join the mailing list for more information.  Class sizes are limited to 5 participants.  Days and times may vary depending on the weather. Contact me to register your interest in mid-morning and evening classes in the park.
 
 **Online Yoga**
-  - Class on Saturday
-    - Yoga for Strength at 9am
+  - Saturday 9am  Online  Yoga for Strength, intermediates
     - Watch this space for additional classes 
 
 **Chiswick Yoga at the Chiswick Catholic Centre** 
