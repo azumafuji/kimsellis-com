@@ -7,6 +7,7 @@ weight: 30
 
 
 **Starting July 10, 2020 - New Yoga Classes in the Park**
+
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
   - Sunday  9-10am 
   - Tuesday 7:30 - 8:30am
@@ -18,6 +19,7 @@ Join the mailing list for more information.  Class sizes are limited.  Days and 
 Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. 
   - Mondays 7:30-8:30a
   - Tuesday 6:30 - 7:30p
+  
 Tickets are £12/class.  Book online at Chiswickfestival.com
 
 **Online Yoga**
