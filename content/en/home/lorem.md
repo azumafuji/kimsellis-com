@@ -16,6 +16,7 @@ Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
 Join the mailing list for more information.  Class sizes are limited.  Days and times may vary depending on the weather. Contact me to register your interest in mid-morning and evening classes in the park.
 
 **The Chiswick Festival**
+
 Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. 
   - Mondays 7:30-8:30a
   - Tuesday 6:30 - 7:30p
