@@ -6,7 +6,8 @@ weight: 30
 **You can always join me on [my YouTube channel](https://www.youtube.com/channel/UCHH2vOSl0Qxpv7Lw9wv45Sg).**
 
 
-**Starting July 10, 2020 - New Yoga Classes in the Park**
+**Yoga Classes in the Park**
+
 
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
   - Sunday  9-10am 
@@ -17,11 +18,11 @@ Join the mailing list for more information.  Class sizes are limited.  Days and 
 
 **The Chiswick Festival**
 
-Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. 
+Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. Classes will run through September.
   - Mondays 7:30-8:30a
-  - Tuesday 6:30 - 7:30p
+  - Tuesday 6:30-7:30p
   
-Tickets are £12/class.  Book online at Chiswickfestival.com
+Tickets are £12/class.  Book online at [Chiswickfestival.com] (https://chiswickfestival.com)
 
 **Online Yoga**
   - Saturday 9am, Yoga for Strength, intermediates
