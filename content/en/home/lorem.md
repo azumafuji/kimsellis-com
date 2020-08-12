@@ -18,7 +18,7 @@ Join the mailing list for more information.  Class sizes are limited.  Days and 
 
 **The Chiswick Festival**
 
-Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. Classes will run through September.
+Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. Classes will run through September. This is a great opportunity to find bliss and to support Chiswick House.  Click [here](https://www.youtube.com/watch?v=9SjgwNdu31Y) to see why everyone is talking about it. 
   - Mondays 7:30-8:30a
   - Tuesday 6:30-7:30p
   
