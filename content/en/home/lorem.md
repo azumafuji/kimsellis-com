@@ -22,15 +22,12 @@ Starting August 10th I will be teaching at the Ionic Temple at Chiswick House an
   - Mondays 7:30-8:30a
   - Tuesday 6:30-7:30p
   
-Tickets are £12/class.  Book online at [Chiswickfestival.com] (https://chiswickfestival.com)
+Tickets are £12/class.  Book online at [Chiswickfestival.com](https://chiswickfestival.com)
 
 **Online Yoga**
   - Saturday 9am, Yoga for Strength, intermediates
     - Watch this space for additional classes 
-
-**Chiswick Yoga at the Chiswick Catholic Centre** 
-  - _2 Dukes Avenue, Chiswick, London W4 2AE_
-    - Classes have been cancelled until further notice
+    
 
 **Yoga with Kim at Snap FItness Chiswick** 
   - _500 Chiswick High Rd, Chiswick, London W4 5RG_
