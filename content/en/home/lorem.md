@@ -8,6 +8,7 @@ weight: 30
 
 **Yoga Classes in the Park**
 
+<a href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" style="background:#3498db;background-image:-webkit-linear-gradient(top, #3498db, #2980b9);background-image:-moz-linear-gradient(top, #3498db, #2980b9);background-image:-ms-linear-gradient(top, #3498db, #2980b9);background-image:-o-linear-gradient(top, #3498db, #2980b9);background-image:linear-gradient(to bottom, #3498db, #2980b9);-webkit-border-radius:14;-moz-border-radius:14;border-radius:14px;font-family:Arial;color:#ffffff;font-size:14px;padding:10px 20px 10px 20px;text-decoration:none;">Book now on-line!</a>
 
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
   - Sunday  9-10am 
