@@ -14,12 +14,11 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
 **Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
 
-While the weather is still warm enough we'll have a Slow Flow pratice in the park.
+While the weather is still warm enough we'll have a Slow Flow pratice in the park. It's £5 per class and you can book in advanced. 
 
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
-  - Sunday  9-10am 
-  - Tuesday 7:30 - 8:30am
-  - Friday  8-9am
+  - Last week for Tuesday 7:30 - 8:30 AM and Sunday at 9 AM - 10 AM.  Moving to the Hogarth Community Centre. 
+  - Friday  8-9 AM while the weather holds out
 
 **The Chiswick Festival**
 

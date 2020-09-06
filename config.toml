@@ -90,7 +90,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Kim Sellis Yoga"
         [languages.en.params]
             description  = "West London yogi teaching in Chiswick and available for private sessions."   # Max 160 characters show in search results
-            footerText   = "© Copyright 2020 - Kim Sellis"                      # Text to override default footer text (markdown allowed)
+            footerText   = "[Terms & Conditions](/pages/terms/) | [Privacy Policy](/pages/privacy/) | © Copyright 2020 - Kim Sellis"                      # Text to override default footer text (markdown allowed)
 
     # [languages.es]
     #     languageName     = "Español"
