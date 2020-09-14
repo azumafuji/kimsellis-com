@@ -22,7 +22,7 @@ Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
 
 
 ### Yoga at the Hogarth Community Center
-We'll be moving inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. 
+We'll be moving inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
 **Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
 
