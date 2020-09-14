@@ -10,6 +10,7 @@ There are videos for Slow Flow, Power, Strength, and Stretch so if you can't mak
 
 _You can book any of the following live classes by clicking the "Book Now" button to register and pay for classes._
 
+
 ### Outdoor Classes
 
 **Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
@@ -17,16 +18,7 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 While the weather is still warm enough we'll have a Slow Flow pratice in the park. It's £5 per class and you can book in advanced. 
 
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
-  - Last week for Tuesday 7:30 - 8:30 AM and Sunday at 9 AM - 10 AM.  Moving to the Hogarth Community Centre. 
   - Friday  8-9 AM while the weather holds out
-
-**The Chiswick Festival**
-
-Starting August 10th I will be teaching at the Ionic Temple at Chiswick House and Gardens. Classes will run through September. This is a great opportunity to find bliss and to support Chiswick House.  Click [here](https://www.youtube.com/watch?v=9SjgwNdu31Y) to see why everyone is talking about it. 
-  - Mondays 7:30-8:30a
-  - Tuesday 6:30-7:30p
-  
-Tickets are £12/class.  Book online at [Chiswickfestival.com](https://chiswickfestival.com)
 
 
 ### Yoga at the Hogarth Community Center
