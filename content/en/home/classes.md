@@ -10,6 +10,8 @@ There are videos for Slow Flow, Power, Strength, and Stretch so if you can't mak
 
 _You can book any of the following live classes by clicking the "Book Now" button to register and pay for classes._
 
+Please review our [Covid-19 saftey guidelines](https://kimsellis.com/pages/covid/).
+
 
 ### Outdoor Classes
 
