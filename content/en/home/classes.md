@@ -17,10 +17,10 @@ Please review our [Covid-19 saftey guidelines](https://kimsellis.com/pages/covid
 
 **Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
 
-While the weather is still warm enough we'll have a Slow Flow pratice in the park. It's £5 per class and you can book in advanced. 
+Classes have ended for Fall 2020. 
 
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
-  - Friday  8-9 AM while the weather holds out
+  - Classes will start again Spring 2021
 
 
 ### Yoga at the Hogarth Community Center
@@ -36,7 +36,7 @@ We'll be moving inside the large spaces at the Hogarth Community Center to conti
 
 **Power Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTMsMA==" >}}Book Now{{< /button>}}
 
- - Tuesdays at 7 PM in the downstairs hall.  A more advanced class incorporating strength moves. 
+ - Tuesdays at 7 PM in the upstairs hall.  A more advanced class incorporating strength moves. 
 
 
 ### More Options
