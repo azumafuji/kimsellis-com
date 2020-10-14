@@ -28,7 +28,7 @@ We'll be moving inside the large spaces at the Hogarth Community Center to conti
 
 **Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
 
- - Tuesdays at 8 AM in the upstairs hall.  Suitable for all levels. 
+ - Tuesdays at 7:45 AM in the upstairs hall.  Suitable for all levels. Please note this class has been recently changed.  The booking system needs to catch up to classes all ready created.  Start time for this class is 7:45 AM as of October 14th 2020 even if the booking system states 8 AM.
 
 **Sunday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTQsMA==" >}}Book Now{{< /button>}}
 
