@@ -41,7 +41,7 @@ We'll be moving inside the large spaces at the Hogarth Community Center to conti
 
 ### More Options
 
-**Online Yoga** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTAsMA==" >}}Book Now{{< /button>}}
+**Online Yoga** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
 
   - Saturdays at  9 AM. If you want to practice from home, this is a Yoga for Strength class for those of you with a strong yoga foundation.
     
