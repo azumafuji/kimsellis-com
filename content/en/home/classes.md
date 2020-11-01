@@ -13,17 +13,17 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 Please review our [Covid-19 saftey guidelines](https://kimsellis.com/pages/covid/).
 
 
-### Outdoor Classes
+### Outdoor Classes - Classes have ended for 2020
 
 **Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
-
-Classes have ended for Fall 2020. 
-
+ 
+ 
 Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
   - Classes will start again Spring 2021
 
 
 ### Yoga at the Hogarth Community Center
+### All face to face classes will be suspended from Nov 4th - Dec 2nd 2020 due to the new goverment restrictions.  
 We'll be moving inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
 **Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
