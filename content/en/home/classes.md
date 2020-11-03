@@ -23,12 +23,12 @@ Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
 
 
 ### Yoga at the Hogarth Community Center
-### All face to face classes will be suspended from Nov 4th - Dec 2nd 2020 due to the new goverment restrictions.  
+### All face to face classes will be suspended from Nov 4th - Dec 2nd 2020 due to the new goverment restrictions.  We have moved online... see below.
 We'll be moving inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
 **Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
 
- - Tuesdays at 7:45 AM in the upstairs hall.  Suitable for all levels. Please note this class has been recently changed.  The booking system needs to catch up to classes all ready created.  Start time for this class is 7:45 AM as of October 14th 2020 even if the booking system states 8 AM.
+ - Tuesdays at 7:45 AM in the upstairs hall.  Suitable for all levels. 
 
 **Sunday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTQsMA==" >}}Book Now{{< /button>}}
 
@@ -43,7 +43,10 @@ We'll be moving inside the large spaces at the Hogarth Community Center to conti
 
 **Online Yoga** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
 
-  - Saturdays at  9 AM. If you want to practice from home, this is a Yoga for Strength class for those of you with a strong yoga foundation.
+  - Tuesday 7:45am Slow Flow. All levels welcome.
+  - Tuesday 7:00pm Power Flow. This class is a stronger and faster paced class.  
+  - Saturday 9:00am Power Yoga for Strength for those of you with a strong yoga foundation.
+  - Saturday 10:15am Slow Flow.  All levels welcome.
     
 **Private sessions are available**
  - Please email for further information
