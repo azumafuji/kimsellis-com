@@ -23,8 +23,9 @@ Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
 
 
 ### Yoga at the Hogarth Community Center
-### All face to face classes will be suspended from Nov 4th - Dec 2nd 2020 due to the new goverment restrictions.  We have moved online... see below.
-We'll be moving inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
+**_All face to face classes will be suspended from Nov 4th - Dec 2nd 2020 due to the new goverment restrictions.  We have moved online - see below._**
+
+We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
 **Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
 
@@ -41,12 +42,12 @@ We'll be moving inside the large spaces at the Hogarth Community Center to conti
 
 ### More Options
 
-**Online Yoga** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
+**Online Yoga** 
 
-  - Tuesday 7:45am Slow Flow. All levels welcome.
-  - Tuesday 7:00pm Power Flow. This class is a stronger and faster paced class.  
-  - Saturday 9:00am Power Yoga for Strength for those of you with a strong yoga foundation.
-  - Saturday 10:15am Slow Flow.  All levels welcome.
+  - Tuesday 7:45am Slow Flow. All levels welcome. {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTcsMA==" >}}Book Now{{< /button>}}
+  - Tuesday 7:00pm Power Flow. This class is a stronger and faster paced class.  {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTgsMA==" >}}Book Now{{< /button>}}
+  - Saturday 9:00am Power Yoga for Strength for those of you with a strong yoga foundation. {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
+  - Saturday 10:15am Slow Flow.  All levels welcome.  {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU0NDQsMA==" >}}Book Now{{< /button>}}
     
 **Private sessions are available**
  - Please email for further information
