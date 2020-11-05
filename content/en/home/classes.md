@@ -40,15 +40,26 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
  - Tuesdays at 7 PM in the upstairs hall.  A more advanced class incorporating strength moves. 
 
 
+### Online Yoga
+
+**Tuesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTcsMA==" >}}Book Now{{< /button>}}
+
+ - All levels welcome. 
+    
+**Tuesday 7:00pm Power Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTgsMA==" >}}Book Now{{< /button>}}
+  
+ - This class is a stronger and faster paced class.  
+  
+**Saturday 9:00am Power Yoga for Strength** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
+  
+ - for those of you with a strong yoga foundation. 
+  
+**Saturday 10:15am Slow Flow**   {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU0NDQsMA==" >}}Book Now{{< /button>}}
+
+ - All levels welcome. 
+
 ### More Options
 
-**Online Yoga** 
-
-  - Tuesday 7:45am Slow Flow. All levels welcome. {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTcsMA==" >}}Book Now{{< /button>}}
-  - Tuesday 7:00pm Power Flow. This class is a stronger and faster paced class.  {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTgsMA==" >}}Book Now{{< /button>}}
-  - Saturday 9:00am Power Yoga for Strength for those of you with a strong yoga foundation. {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
-  - Saturday 10:15am Slow Flow.  All levels welcome.  {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU0NDQsMA==" >}}Book Now{{< /button>}}
-    
 **Private sessions are available**
  - Please email for further information
 
