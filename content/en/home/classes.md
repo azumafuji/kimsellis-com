@@ -30,12 +30,9 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
 **Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
 
  - Tuesdays at 7:45 AM in the upstairs hall.  Suitable for all levels. 
+ 
 
-**Sunday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTQsMA==" >}}Book Now{{< /button>}}
-
- - Sundays at 9 AM in the downstairs hall.  Suitable for all levels. 
-
-**Power Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTMsMA==" >}}Book Now{{< /button>}}
+**Tuesday Power Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTMsMA==" >}}Book Now{{< /button>}}
 
  - Tuesdays at 7 PM in the upstairs hall.  A more advanced class incorporating strength moves. 
 
