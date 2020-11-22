@@ -10,7 +10,7 @@ You can use credits to book classes instead of paying for each class individuall
 
 **5 Classes - 10 Credits** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwyNjQ=" >}}Buy Now{{< /button>}}
 
-### Access your profile##
+### Access your profile
 You can see which classes you've booked and your account status by using the profile page.
 
 {{< button href="https://kim-sellis-yoga.reservie.net/" >}}Access Profile{{< /button>}}
