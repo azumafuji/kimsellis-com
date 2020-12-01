@@ -41,7 +41,7 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
 
 ### Yoga at the Hogarth Community Center
-**_All face to face classes will be suspended from Nov 4th - Dec 2nd 2020 due to the new goverment restrictions._**
+**_All face to face classes will be suspended from Nov 4th 2020- Jan 5th 2021.  We will be back on Tuesday Jan 12 202021._**
 
 We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
