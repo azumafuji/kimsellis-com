@@ -20,20 +20,20 @@ You can see which classes you've booked and your account status by using the pro
 _You can book any of the following live classes by clicking the "Book Now" button to register and pay for classes._
 
 ### Online Yoga
-
-**Tuesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTcsMA==" >}}Book Now{{< /button>}}
+    
+**Tuesday 7:00pm Power Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTMsMA==" >}}Book Now{{< /button>}}
+  
+ - This class is a stronger and faster paced class. 
+ 
+ **Wednesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTQsMA==" >}}Book Now{{< /button>}}
 
  - All levels welcome. 
-    
-**Tuesday 7:00pm Power Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU2NTgsMA==" >}}Book Now{{< /button>}}
   
- - This class is a stronger and faster paced class.  
-  
-**Saturday 9:00am Power Yoga for Strength** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU1MjMsMA==" >}}Book Now{{< /button>}}
+**Saturday 9:00am Power Yoga for Strength** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTYsMA==" >}}Book Now{{< /button>}}
   
  - for those of you with a strong yoga foundation. 
   
-**Saturday 10:15am Slow Flow**   {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU0NDQsMA==" >}}Book Now{{< /button>}}
+**Saturday 10:15am Slow Flow**   {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTUsMA==" >}}Book Now{{< /button>}}
 
  - All levels welcome. 
 
@@ -41,7 +41,7 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
 
 ### Yoga at the Hogarth Community Center
-**_All face to face classes will be suspended from Nov 4th 2020- Jan 5th 2021.  We will be back on Tuesday Jan 12 202021._**
+**_All face to face classes will resume when possible.  Please check back for further updates._**
 
 We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. It's £10 per class and you can book in advanced. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
