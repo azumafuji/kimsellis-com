@@ -75,6 +75,23 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #     name    = "Blog"
 #     url     = "/blog/"
 #     weight  = 1
+[[menu.main]]
+    name    = "About"
+    url     = "/#about"
+    weight  = 1
+[[menu.main]]
+    name    = "Join a Class"
+    url     = "/#classes"
+    weight  = 2
+[[menu.main]]
+    name    = "Yoga Breathing"
+    url     = "/pages/breath"
+    weight  = 3
+[[menu.main]]
+    name    = "Contact"
+    url     = "/#contact"
+    weight  = 4
+
 
 # We only use tag as a taxonomies
 # You can add more by yourself
@@ -90,7 +107,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Kim Sellis Yoga"
         [languages.en.params]
             description  = "West London yogi teaching in Chiswick and available for private sessions."   # Max 160 characters show in search results
-            footerText   = "[Terms & Conditions](/pages/terms/) | [Privacy Policy](/pages/privacy/) | © Copyright 2020 - Kim Sellis"                      # Text to override default footer text (markdown allowed)
+            footerText   = "[Terms & Conditions](/pages/terms/) | [Privacy Policy](/pages/privacy/) | © Copyright 2021 - Kim Sellis"                      # Text to override default footer text (markdown allowed)
 
     # [languages.es]
     #     languageName     = "Español"

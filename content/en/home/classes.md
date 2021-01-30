@@ -8,6 +8,8 @@ You can use credits to book classes instead of paying for each class individuall
 
 **10 Classes - 20 Credits** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwyNjQ=" >}}Buy Now{{< /button>}}
 
+---
+
 **5 Classes - 10 Credits** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwyNjQ=" >}}Buy Now{{< /button>}}
 
 ### Access your profile 
@@ -24,15 +26,21 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 **Tuesday 7:00pm Power Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTMsMA==" >}}Book Now{{< /button>}}
   
  - This class is a stronger and faster paced class. 
- 
+
+---
+
  **Wednesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTQsMA==" >}}Book Now{{< /button>}}
 
  - All levels welcome. 
   
+---
+
 **Saturday 9:00am Power Yoga for Strength** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTYsMA==" >}}Book Now{{< /button>}}
   
  - for those of you with a strong yoga foundation. 
-  
+
+---
+
 **Saturday 10:15am Slow Flow**   {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTUsMA==" >}}Book Now{{< /button>}}
 
  - All levels welcome. 
@@ -49,6 +57,7 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
 
  - Tuesdays at 7:45 AM in the upstairs hall.  Suitable for all levels. 
  
+ ---
 
 **Tuesday Power Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTMsMA==" >}}Book Now{{< /button>}}
 
@@ -74,5 +83,4 @@ Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
 **You can always join me on [my YouTube channel](https://www.youtube.com/channel/UCHH2vOSl0Qxpv7Lw9wv45Sg).**
 
 There are videos for Slow Flow, Power, Strength, and Stretch so if you can't make a class you can still practice on your own time. 
-
 
