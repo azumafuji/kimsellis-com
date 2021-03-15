@@ -23,12 +23,6 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
 ### Online Yoga
     
-**Tuesday 7:00pm Power Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTMsMA==" >}}Book Now{{< /button>}}
-  
- - This class is a stronger and faster paced class. 
-
----
-
  **Wednesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTQsMA==" >}}Book Now{{< /button>}}
 
  - All levels welcome. 
@@ -45,7 +39,11 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
  - All levels welcome. 
 
+### Outdoor Classes - Coming soon! Check back for upcoming dates.
 
+**Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
+ 
+Location: Chiswick Common (behind M&S)
 
 
 ### Yoga at the Hogarth Community Center
@@ -63,13 +61,6 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
 
  - Tuesdays at 7 PM in the upstairs hall.  A more advanced class incorporating strength moves. 
 
-
-### Outdoor Classes - Classes have ended for 2020
-
-**Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
- 
-Location: Chiswick Common, Slow Flow Vinyasa, all levels welcome
-  - Classes will start again Spring 2021
 
 ### More Options
 
