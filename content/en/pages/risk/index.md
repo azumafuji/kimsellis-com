@@ -1,5 +1,5 @@
 ---
-title: "Waiver"
+title: "Waiver/Cancellations/Refunds"
 date: 2020-09-06T14:05:19+01:00
 ---
 
@@ -19,6 +19,7 @@ Any changes to my health status (medications, conditions, pregnancy, or injuries
 **The instructor has the right to deny class participation due to health concerns or injuries at any time.**
 
 
-### Cancellations
-
-Cancellations should be made 24 hours before class in order to receive a class credit.  If the class has a waiting list and the class in not cancelled within the appropriate timeframe the participant will not receive a credit or class refund.
+### Cancellations/Refunds
+There will be no refunds unless government restrictions or an act of God require Kim Sellis Yoga to cancel class. 
+If a student needs to cancel their spot, Kim Sellis Yoga must be notified via email (Yoga@kimsellis.com) 24hours in advance.  Students will be given the option to be added to a different class of their choice or given a class voucher that is valid for 3 months.
+In the event of class cancellations due to inclement weather, classes will take place online.  Participants will be notified 60mins before class via email/text. 
