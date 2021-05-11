@@ -26,7 +26,7 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
 
 ### Outdoor Yoga at Chiswick House & Gardens
-**I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.**
+**I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.  For more information about Chiswick House and Garden [click here.](https://chiswickhouseandgardens.org.uk)**
 
 Location: The Ionic Temple
 
@@ -83,7 +83,7 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
 
 ### More Options
 
-**Please email for futher information**
+**Please [email](yoga@kimsellis.com)for futher information**
  - Private 1:1 sessions as well as small groups
  - Yoga breathing for stress and anxiety 
  - Serving schools, corporate clients, community centres, festivals, and fitness centres.
