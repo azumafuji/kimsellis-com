@@ -21,6 +21,42 @@ You can see which classes you've booked and your account status by using the pro
 
 _You can book any of the following live classes by clicking the "Book Now" button to register and pay for classes._
 
+
+### Outdoor Classes are back! 
+
+
+### Outdoor Yoga at Chiswick House & Gardens
+**I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.**
+
+Location: The Ionic Temple
+
+**Tuesday 6:30pm Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDYzNjMsMA==" >}}Book Now{{< /button>}}
+
+--- 
+
+**Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzMsMA==" >}}Book Now{{< /button>}}
+
+--- 
+
+**Saturday 9:00am Power Vinyasa Flow (Intermediates Only)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzUsMA==" >}}Book Now{{< /button>}}
+
+--- 
+
+**Saturday 10:15am Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzQsMA==" >}}Book Now{{< /button>}}
+
+
+
+### Yoga on Chiswick Common
+Location: Chiswick Common (behind M&S)
+
+**Monday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzksMA==" >}}Book Now{{< /button>}}
+
+---
+
+**Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1NDIsMA==" >}}Book Now{{< /button>}}
+
+
+
 ### Online Yoga
     
  **Wednesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTQsMA==" >}}Book Now{{< /button>}}
@@ -39,33 +75,18 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
  - All levels welcome. 
 
-### Outdoor Classes - Coming soon! Check back for upcoming dates.
-
-**Yoga in the Park** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUxNjgsMA==" >}}Book Now{{< /button>}}
- 
-Location: Chiswick Common (behind M&S)
-
 
 ### Yoga at the Hogarth Community Center
 **_Classes will resume September 2021.  Please check back for further updates._**
 
 We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
-**Tuesday Slow Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTEsMA==" >}}Book Now{{< /button>}}
-
- - Tuesdays at 7:45 AM in the upstairs hall.  Suitable for all levels. 
- 
- ---
-
-**Tuesday Power Vinyasa Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDUyMTMsMA==" >}}Book Now{{< /button>}}
-
- - Tuesdays at 7 PM in the upstairs hall.  A more advanced class incorporating strength moves. 
-
-
 ### More Options
 
-**Private sessions are available**
- - Please email for further information
+**Please email for futher information**
+ - Private 1:1 sessions as well as small groups
+ - Yoga breathing for stress and anxiety 
+ - Serving schools, corporate clients, community centres, festivals, and fitness centres.
 
 **Yoga with Kim at Snap Fitness Chiswick** 
   - _500 Chiswick High Rd, Chiswick, London W4 5RG_
