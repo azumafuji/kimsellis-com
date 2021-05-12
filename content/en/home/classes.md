@@ -20,9 +20,9 @@ You can see which classes you've booked and your account status by using the pro
 
 
 _You can book any of the following live classes by clicking the "Book Now" button to register and pay for classes._
+<br></br>
 
-
-### Outdoor Classes are back! 
+## Outdoor Classes are back!
 
 
 ### Outdoor Yoga at Chiswick House & Gardens
@@ -32,7 +32,7 @@ Location: The Ionic Temple
 
 **Tuesday 6:30pm Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDYzNjMsMA==" >}}Book Now{{< /button>}}
 
---- 
+---
 
 **Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzMsMA==" >}}Book Now{{< /button>}}
 
@@ -57,7 +57,7 @@ Location: Chiswick Common (behind M&S)
 
 
 
-### Online Yoga
+## Online Yoga
     
  **Wednesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTQsMA==" >}}Book Now{{< /button>}}
 
@@ -76,21 +76,18 @@ Location: Chiswick Common (behind M&S)
  - All levels welcome. 
 
 
-### Yoga at the Hogarth Community Center
+## Yoga at the Hogarth Community Center
 **_Classes will resume September 2021.  Please check back for further updates._**
 
 We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
-### More Options
+## More Options
 
-**Please [email](yoga@kimsellis.com)for futher information**
+**Please [email](yoga@kimsellis.com) for futher information**
  - Private 1:1 sessions as well as small groups
  - Yoga breathing for stress and anxiety 
  - Serving schools, corporate clients, community centres, festivals, and fitness centres.
-
-**Yoga with Kim at Snap Fitness Chiswick** 
-  - _500 Chiswick High Rd, Chiswick, London W4 5RG_
-  - Classes have been cancelled until further notice 
+ 
     
 **You can always join me on [my YouTube channel](https://www.youtube.com/channel/UCHH2vOSl0Qxpv7Lw9wv45Sg).**
 
