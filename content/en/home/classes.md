@@ -26,7 +26,7 @@ _You can book any of the following live classes by clicking the "Book Now" butto
 
 
 ### Outdoor Yoga at Chiswick House & Gardens
-**I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.  For more information about Chiswick House and Garden [click here.](https://chiswickhouseandgardens.org.uk)**
+**I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.  For more information about Chiswick House and Garden [click here.](https://chiswickhouseandgardens.org.uk/event/yoga-at-the-ionic-temple-with-kim-sellis/)**
 
 Location: The Ionic Temple
 
