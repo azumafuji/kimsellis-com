@@ -2,7 +2,7 @@
 title: "About"
 date: 2021-05-16T13:55:39+01:00
 image: "profile.jpg"
-draft: true
+draft: false
 menu: main
 ---
 

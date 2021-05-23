@@ -2,7 +2,7 @@
 title: "Terms"
 description: ""
 images: []
-draft: true
+draft: false
 weight: 0
 ---
 

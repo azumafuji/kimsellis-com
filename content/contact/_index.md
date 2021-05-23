@@ -2,7 +2,7 @@
 title: "Subscribe"
 description: "Subscribe to yoga updates and announcements from kimsellis.com"
 images: []
-draft: true
+draft: false
 menu: main
 weight: 0
 ---

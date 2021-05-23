@@ -1,7 +1,7 @@
 ---
 title: "Privacy"
 date: 2021-05-16T13:55:34+01:00
-draft: true
+draft: false
 ---
 
 At Kim Sellis Yoga, accessible from https://kimsellis.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Kim Sellis Yoga and how we use it.

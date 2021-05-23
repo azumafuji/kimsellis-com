@@ -1,7 +1,7 @@
 ---
 title: "Classes"
 date: 2021-05-16T11:33:20+01:00
-draft: true
+draft: false
 menu: main
 ---
  - Buy a class pass to use for any of the online or in-person classes
