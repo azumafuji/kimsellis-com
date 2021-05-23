@@ -54,6 +54,24 @@
         {{ end }}
     </address>
 
+    <div class="terms">
+
+      {{ if $.Site.Params.terms.tandc }}
+      <span class="footer__terms__item">
+        <a href="{{ $.Site.Params.terms.tandc }}" class="footer__terms__link" alt="Terms and Conditions">Terms & Conditions</a>
+      </span>
+      
+	{{ end }}
+	
+      {{ if $.Site.Params.terms.privacy }}
+      <span class="footer__terms__item">
+        <a href="{{ $.Site.Params.terms.privacy }}" class="footer__terms__link" alt="Privacy">Privacy</a>
+      </span>
+      
+      {{ end }}
+    </div>
+    
+    
     <div class="copy">
         {{ if $.Site.Params.copy.copy }}
         <p>{{ $.Site.Params.copy.copy }}</p>

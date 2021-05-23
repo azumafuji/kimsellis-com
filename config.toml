@@ -13,7 +13,9 @@ theme = "terrassa"      # Your Hugo theme
     cta = "Book Now"  # Text message of the CTA
     link = "classes" # Relative URL
 
-
+[params.terms]
+    privacy = "/privacy"
+    tandc = "/terms/"
 
 [params.fa] # Font Awesome options
     version = "5.7.2"

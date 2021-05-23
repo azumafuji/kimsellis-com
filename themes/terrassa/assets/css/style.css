@@ -409,7 +409,7 @@
 	background-color: var(--primary-dark);
 	display: grid;
 	grid-auto-flow: row;
-	grid-template-areas: "social social social" "contact contact copy";
+	grid-template-areas: "social social social" "contact terms copy";
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: repeat(2, auto);
 }

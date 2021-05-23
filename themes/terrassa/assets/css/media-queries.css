@@ -18,7 +18,7 @@
 
 	.footer__contact {
 		align-items: start;
-		flex-direction: column;
+		flex-direction: row;
 		padding: 1.75rem 4.5rem;
 	}
 
@@ -30,6 +30,10 @@
 		padding-bottom: 0;
 	}
 
+	.footer__terms__item {
+		padding-bottom: 1.75rem;
+	}
+	
 	.copy {
 		align-items: flex-end;
 		padding-right: 4.5rem;
@@ -152,7 +156,7 @@
 	}
 
 	.footer {
-		grid-template-areas: "social" "contact" "copy";
+		grid-template-areas: "social" "contact" "terms" "copy";
 		grid-template-columns: 1fr;
 	}
 
