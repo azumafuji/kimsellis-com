@@ -5,13 +5,11 @@
   box-sizing: border-box;
 }
 
-body {
-  flex-wrap: wrap;
-}
 
 body {
-  background-color: #fffdf9;
-  font-family: Raleway, sans-serif;
+    flex-wrap: wrap;
+    background-color: #fffdf9;
+    font-family: Raleway, sans-serif;
 }
 
 h1,
@@ -189,4 +187,22 @@ hr {
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
   border: 2px solid #e85c41;
 }
+
+.terms {
+	align-items: center;
+	display: flex;
+	grid-area: terms;
+	justify-content: space-around;
+	width: 100%;
+}
+
+
+
+.footer__terms__link,
+.footer__terms__link:hover {
+	color: var(--white);
+}
+
+
+
 
