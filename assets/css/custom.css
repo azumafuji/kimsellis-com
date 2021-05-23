@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  flex-wrap: wrap;
+}
+
+body {
+  background-color: #fffdf9;
+  font-family: Raleway, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Bitter", serif;
+  font-weight: 700;
+}
+.hero {
+  background-attachment: scroll;
+}
+
+:root {
+  --title: 3.998rem;
+  --subtitle: 2.827rem;
+  --header: 1.999rem;
+  --subheader: 1.414rem;
+  --primary: #63c35c;
+  --primary-dark: #00aa60;
+  --primary-light: #ddf8d7;
+  --primary-text: #212121;
+  --secondary-text: #333333;
+  --accent: #28628f;
+  --divider: #bdbdbd;
+  --white: #fdfdfd;
+  --sm: 576px;
+  --md: 768px;
+  --lg: 992px;
+  --xl: 1200px;
+}
+
+hr {
+	color: var(--divider);
+	opacity: .3;
+	width: 85%;
+    margin-bottom: 2em;
+}
+
+.booking {
+    float: right;
+    padding: 4px 1em;
+    margin-top: -4px;
+}
+
+
+.content__gdprLegal {
+  margin: 2.75rem 19%;
+  text-justify: distribute;
+}
+
+.menu__items__item__link, .header__title__link {
+	white-space: nowrap;
+}
+
+.event,
+.event-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.event-box {
+  flex: 3 1 30ch;
+  height: calc(282px + 5vw);
+  overflow: hidden;
+}
+.event-box img {
+  max-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -o-object-position: 50% 50%;
+  object-position: 50% 50%;
+  padding: 1em 1em 1em 1em;
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+
+}
+
+.event {
+  border: 2px solid #f2f2f2;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.event-content {
+  padding: 16px 32px;
+  flex: 4 1 40ch;
+}
+.event-tags {
+  margin: 0 -8px;
+}
+.event-tag {
+  display: inline-block;
+  margin: 8px;
+  font-size: 0.875em;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--primary);
+}
+.event-title {
+  margin: 0;
+  font-size: clamp(1.4em, 2.1vw, 2.1em);
+  font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+}
+.event-title a {
+  text-decoration: none;
+  color: inherit;
+}
+.event-metadata {
+  margin: 0;
+}
+.event-rating {
+  font-size: 1.2em;
+  letter-spacing: 0.05em;
+  color: var(--primary);
+}
+.event-rating span {
+  color: var(--grey);
+}
+.event-votes {
+  font-size: 0.825em;
+  font-style: italic;
+  color: var(--lightgrey);
+}
+.event-save {
+  display: flex;
+  align-items: center;
+  padding: 6px 14px 6px 12px;
+  border-radius: 4px;
+  border: 2px solid currentColor;
+  color: var(--primary);
+  background: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+.event-save svg {
+  margin-right: 6px;
+}
+
+/* Body Layout */
+* {
+  box-sizing: border-box;
+}
+
+.fullcard {
+  width: clamp(320px, 65%, 65%);
+  padding: 24px;
+}
+
+/* Mailchimp */
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+  display: inline-block;
+  margin: 2px 0 1em 0;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0.85);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight: normal;
+  z-index: 1;
+  color: #e85c41;
+}
+#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
+  border: 2px solid #e85c41;
+}
+

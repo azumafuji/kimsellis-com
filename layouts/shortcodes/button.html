@@ -7,6 +7,6 @@
 {{ with .Get "relref" }}
   {{ $ref = relref $ . }}
 {{ end }}
-<a {{ with $ref }} href="{{.}}" {{ end }} {{ with $target }} target="{{.}}" {{ end }} class="booking button is-link{{ with .Get "class" }} {{ . }}{{ end }}">
+<a {{ with $ref }} href="{{.}}" {{ end }} {{ with $target }} target="{{.}}" {{ end }} class="booking ripple-btn  is-link{{ with .Get "class" }} {{ . }}{{ end }}">
     {{ $.Inner}}
 </a>
