@@ -1,0 +1,42 @@
+
+{{ $lscratch := newScratch }}
+
+<section class="section" id="{{ replace (.title | lower) " " "_" }}">
+    <div class="big section_content">
+        <article class="event">
+            <div class="event-box" style="filter:drop-shadow(0.4rem 0.4rem 0.45rem rgba(0, 0, 30, 0.5));">
+                <img src={{ .image }} class="locationimage" alt="{{ .title }}">
+            </div>
+            <div class="event-content">
+                <h2>{{ .title }}</h2>
+
+                <p class="event-desc">{{ .description }}</p>
+
+                {{ $len := (len .classes) }}
+                {{ $lscratch.Set "timeblocks" 0 }}
+
+                {{ range $i, $class := .classes }}
+                    {{ $lscratch.Set "timeblocks" (add ($lscratch.Get "timeblocks") 1) }}
+
+                    {{ range $classname, $timetable := $class}}
+                        <h3>{{ $classname }}</h3>
+                        <p style="font-size: 0.9em; white-space: nowrap;">{{ .description }}</p>
+                        {{ range $tindex, $classtimes := $timetable.times }}
+                            <p>
+                                <a href="{{ $classtimes.time.booking }}" target="_blank"
+                                   class="booking ripple-btn is-link">
+                                    Book Now
+                                </a>
+                                <strong>{{ $classtimes.time.daytime }}</strong>
+                            </p>
+                        {{ end }}
+                    {{ end }}
+                {{ if ne ($lscratch.Get "timeblocks") $len }}
+                <hr>
+                {{ end }}
+                {{ end }}
+
+            </div>
+        </article>
+    </div>
+</section>
