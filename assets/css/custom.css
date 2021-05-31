@@ -67,6 +67,20 @@ hr {
 	white-space: nowrap;
 }
 
+.profile {
+  text-align: center;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.profile img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em 1em 1em 1em;
+}
+
+
 .event,
 .event-box {
   display: flex;
@@ -79,6 +93,8 @@ hr {
   height: calc(282px + 5vw);
   overflow: hidden;
 }
+
+
 .event-box img {
   max-width: 100%;
   min-height: 100%;
