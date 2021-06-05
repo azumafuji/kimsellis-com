@@ -3,6 +3,7 @@ title: "Classes"
 date: 2021-05-16T11:33:20+01:00
 draft: false
 menu: main
+weight: 30
 ---
  - Buy a class pass to use for any of the online or in-person classes
  - Register for an individual class by clicking "Book Now"
@@ -60,26 +61,10 @@ Location: Chiswick Common (behind M&S)
 
 {{< separator >}}
 
-
 ## Online Yoga
 
-You'll receive an email with details on how to attend the online classes.
-    
- **Wednesday 7:45am Slow Flow** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTQsMA==" >}}Book Now{{< /button>}}
+Online yoga will return in the fall.
 
- - All levels welcome. 
-  
----
-
-**Saturday 9:00am Power Yoga for Strength** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTYsMA==" >}}Book Now{{< /button>}}
-  
- - for those of you with a strong yoga foundation. 
-
----
-
-**Saturday 10:15am Slow Flow**   {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDU5NTUsMA==" >}}Book Now{{< /button>}}
-
- - All levels welcome. 
 
 {{< separator >}}
 
@@ -92,7 +77,7 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
 
 ## More Options
 
-**Please [email](yoga@kimsellis.com) for futher information**
+**Please [email](mailto:yoga@kimsellis.com) for futher information**
  - Private 1:1 sessions as well as small groups
  - Yoga breathing for stress and anxiety 
  - Serving schools, corporate clients, community centres, festivals, and fitness centres.
