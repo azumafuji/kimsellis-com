@@ -4,6 +4,7 @@ date: 2021-05-16T13:55:39+01:00
 image: "profile.jpg"
 draft: false
 menu: main
+weight: 10
 ---
 
 Kim is a former pharmaceutical biologist originally from Chicago. Her love for fitness began at an early age as a competitive gymnast. Since then, she has trained as a triathlete and achieved her 1st Dan in Shotokan Karate. Making the jump from her pharmaceutical career, she became an accredited personal trainer and yoga instructor.

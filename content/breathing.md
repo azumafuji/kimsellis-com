@@ -3,6 +3,7 @@ title: "Breathing"
 date: 2021-05-16T15:54:26+01:00
 draft: false
 menu: main
+weight: 40
 ---
 
 # Yoga Breathing and Breath Coaching
