@@ -14,7 +14,7 @@ I will stop exercising immediately if I feel dizzy, faint, light-headed or if I 
 Kim Sellis is not a licensed medical care provider and has no expertise in diagnosing, examining, or treating medical conditions of any kind, or in determining the effect of any specific exercise on a medical condition. 
 
 ## New Students
-Any new student must complete a PAR-Q health form before participating in any class.
+Before participating in class all new student must complete a PAR-Q health form [(Physical Activity Readiness Questionnaire)](https://docs.google.com/forms/d/e/1FAIpQLSfKZj-qa40jj4d4bUroU74ALcuhFXrLN-l-uyi7Cl3p4gBAyA/viewform?usp=sf_link).
 
 ## Injuries
 
