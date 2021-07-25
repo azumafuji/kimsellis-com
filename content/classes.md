@@ -33,6 +33,8 @@ I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil 
 
 Location: The Ionic Temple
 
+NOTE: No classes between Aug 18th - Aug 23rd
+
 **Tuesday 6:30pm Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDYzNjMsMA==" >}}Book Now{{< /button>}}
 
 ---
@@ -52,6 +54,8 @@ Location: The Ionic Temple
 
 ## Yoga on Chiswick Common
 Location: Chiswick Common (behind M&S)
+
+NOTE: No classes between Aug 18th - Aug 23rd
 
 **Monday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzksMA==" >}}Book Now{{< /button>}}
 
