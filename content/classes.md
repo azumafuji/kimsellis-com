@@ -33,7 +33,7 @@ I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil 
 
 Location: The Ionic Temple
 
-NOTE: No classes between Aug 18th - Aug 23rd
+NOTE: Last class of the season is Tuesday, September 14th.  All classes will be moved to the ArtsEd building.  More details coming soon.
 
 **Tuesday 6:30pm Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDYzNjMsMA==" >}}Book Now{{< /button>}}
 
@@ -55,7 +55,7 @@ NOTE: No classes between Aug 18th - Aug 23rd
 ## Yoga on Chiswick Common
 Location: Chiswick Common (behind M&S)
 
-NOTE: No classes between Aug 18th - Aug 23rd
+NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class will be moved to the the Hogarth Community Centre building.  More details coming soon.
 
 **Monday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzksMA==" >}}Book Now{{< /button>}}
 
@@ -67,7 +67,7 @@ NOTE: No classes between Aug 18th - Aug 23rd
 
 ## Online Yoga
 
-Online yoga will return in the fall.
+No classes at this time.
 
 
 {{< separator >}}
