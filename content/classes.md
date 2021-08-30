@@ -33,7 +33,7 @@ I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil 
 
 Location: The Ionic Temple
 
-NOTE: Last class of the season is Tuesday, September 14th.  All classes will be moved to the ArtsEd building.  More details coming soon.
+NOTE: Last class of the season is Tuesday, September 14th.  All classes will be moved to the ArtsEd building.  See below.
 
 **Tuesday 6:30pm Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDYzNjMsMA==" >}}Book Now{{< /button>}}
 
@@ -55,7 +55,7 @@ NOTE: Last class of the season is Tuesday, September 14th.  All classes will be 
 ## Yoga on Chiswick Common
 Location: Chiswick Common (behind M&S)
 
-NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class will be moved to the the Hogarth Community Centre building.  More details coming soon.
+NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class will be moved to the the Hogarth Community Centre building.  See below.
 
 **Monday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzksMA==" >}}Book Now{{< /button>}}
 
@@ -65,19 +65,44 @@ NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class wi
 
 {{< separator >}}
 
+## Yoga at ArtsEd 
+We are moving our practice indoors to the practice studios at Arts Ed.
+
+Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY.
+
+NOTE: Class begin Saturday, September 18th.
+
+**Tuesday 7pm Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzQsMA==" >}}Book Now{{< /button>}}
+
+---
+
+**Saturday 9am Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
+
+--- 
+
+**Saturday 10am POWER Vinyasa Flow (Intermediates Only)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzcsMA==" >}}Book Now{{< /button>}}
+
+{{< separator >}}
+
+
+## Yoga at the Hogarth Community Center
+We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. [Hogarth Community Centre](https://hogarthtrust.org.uk)
+
+Location: the Hogarth Community Centre, Dukes Road, Chiswick W4 2JR (Upstairs Dojo)
+
+NOTE: Beginning Wednesday, September 22nd.
+
+**Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzUsMA==" >}}Book Now{{< /button>}}
+
+{{< separator >}}
+
+
 ## Online Yoga
 
 No classes at this time.
 
-
 {{< separator >}}
 
-## Yoga at the Hogarth Community Center
-**_Classes will resume September 2021.  Please check back for further updates._**
-
-We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. [Hogarth Community Centre](https://hogarthtrust.org.uk)
-
-{{< separator >}}
 
 ## More Options
 
