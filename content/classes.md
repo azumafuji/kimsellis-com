@@ -11,7 +11,7 @@ weight: 30
 ## Buy a class pass
 You can use credits to book classes instead of paying for each class individually.  Save time and make it easier to change your reservations as needed.
 
-**10 Classes - 20 Credits** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwyNjQ=" >}}Buy Now{{< /button>}}
+**10 Classes - 20 Credits** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwzMDk=" >}}Buy Now{{< /button>}}.      
 
 ---
 
