@@ -39,15 +39,15 @@ NOTE: Last class of the season is Tuesday, September 14th.  All classes will be 
 
 ---
 
-**Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzMsMA==" >}}Book Now{{< /button>}}
+**Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** This class has ended for the season.
 
 --- 
 
-**Saturday 9:00am Power Vinyasa Flow (Intermediates Only)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzUsMA==" >}}Book Now{{< /button>}}
+**Saturday 9:00am Power Vinyasa Flow (Intermediates Only)** This class has ended for the season.
 
 --- 
 
-**Saturday 10:15am Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzQsMA==" >}}Book Now{{< /button>}}
+**Saturday 10:15am Vinyasa Flow (All Levels Welcome)** This class has ended for the season.
 
 {{< separator >}}
 
@@ -93,6 +93,13 @@ Location: the Hogarth Community Centre, Dukes Road, Chiswick W4 2JR (Upstairs Do
 NOTE: Beginning Wednesday, September 22nd.
 
 **Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzUsMA==" >}}Book Now{{< /button>}}
+
+--- 
+
+**Weekdays 9:30am Vinyasa Flow (All Levels)** Coming Soon!
+
+Please register your interest for these classes. {{< button href="yoga@kimsellis.com" >}}Email Now{{< /button>}}
+
 
 {{< separator >}}
 
