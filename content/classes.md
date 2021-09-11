@@ -39,15 +39,21 @@ NOTE: Last class of the season is Tuesday, September 14th.  All classes will be 
 
 ---
 
-**Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** This class has ended for the season.
+**Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** 
+
+This class has ended for the season.
 
 --- 
 
-**Saturday 9:00am Power Vinyasa Flow (Intermediates Only)** This class has ended for the season.
+**Saturday 9:00am Power Vinyasa Flow (Intermediates Only)** 
+
+This class has ended for the season.
 
 --- 
 
-**Saturday 10:15am Vinyasa Flow (All Levels Welcome)** This class has ended for the season.
+**Saturday 10:15am Vinyasa Flow (All Levels Welcome)** 
+
+This class has ended for the season.
 
 {{< separator >}}
 
@@ -98,7 +104,7 @@ NOTE: Beginning Wednesday, September 22nd.
 
 **Weekdays 9:30am Vinyasa Flow (All Levels)** Coming Soon!
 
-Please register your interest for these classes. {{< button href="yoga@kimsellis.com" >}}Email Now{{< /button>}}
+Please register your interest for these classes. {{< button href="mailto:yoga@kimsellis.com" >}}Email Now{{< /button>}}
 
 
 {{< separator >}}
