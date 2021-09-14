@@ -28,42 +28,14 @@ You can see which classes you've booked and your account status by using the pro
 {{< separator >}}
 
 
-## Yoga at the Ionic Temple 
-I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.  [More information about Chiswick House and Gardens](https://chiswickhouseandgardens.org.uk/event/yoga-at-the-ionic-temple-with-kim-sellis/).
-
-Location: The Ionic Temple
-
-NOTE: Last class of the season is Tuesday, September 14th.  All classes will be moved to the ArtsEd building.  See below.
-
-**Tuesday 6:30pm Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDYzNjMsMA==" >}}Book Now{{< /button>}}
-
----
-
-**Wednesday 9:30am Vinyasa Flow (All Levels Welcome)** 
-
-This class has ended for the season.
-
---- 
-
-**Saturday 9:00am Power Vinyasa Flow (Intermediates Only)** 
-
-This class has ended for the season.
-
---- 
-
-**Saturday 10:15am Vinyasa Flow (All Levels Welcome)** 
-
-This class has ended for the season.
-
-{{< separator >}}
-
-
 ## Yoga on Chiswick Common
 Location: Chiswick Common (behind M&S)
 
 NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class will be moved to the the Hogarth Community Centre building.  See below.
 
-**Monday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1MzksMA==" >}}Book Now{{< /button>}}
+**Monday 7:45am Vinyasa Flow (All Levels)**
+
+This class has ended for the season.
 
 ---
 
@@ -72,9 +44,9 @@ NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class wi
 {{< separator >}}
 
 ## Yoga at ArtsEd 
-We are moving our practice indoors to the practice studios at Arts Ed.
+We are moving our practice indoors to the dance studios at Arts Ed.
 
-Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY.
+Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
 NOTE: Class begin Saturday, September 18th.
 
@@ -105,6 +77,17 @@ NOTE: Beginning Wednesday, September 22nd.
 **Weekdays 9:30am Vinyasa Flow (All Levels)** Coming Soon!
 
 Please register your interest for these classes. {{< button href="mailto:yoga@kimsellis.com" >}}Email Now{{< /button>}}
+
+
+{{< separator >}}
+
+
+## Yoga at the Ionic Temple 
+I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.  [More information about Chiswick House and Gardens](https://chiswickhouseandgardens.org.uk/event/yoga-at-the-ionic-temple-with-kim-sellis/).
+
+Location: The Ionic Temple
+
+No additional classes at this time.  Thank you Chiswick House & Gardens for a great 2021 season.  We can't wait for next summer in the gardens.
 
 
 {{< separator >}}
