@@ -28,27 +28,10 @@ You can see which classes you've booked and your account status by using the pro
 {{< separator >}}
 
 
-## Yoga on Chiswick Common
-Location: Chiswick Common (behind M&S)
-
-NOTE: Last class of the season is Wednesday, September 15th.  Wednesday class will be moved to the the Hogarth Community Centre building.  See below.
-
-**Monday 7:45am Vinyasa Flow (All Levels)**
-
-This class has ended for the season.
-
----
-
-**Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDY1NDIsMA==" >}}Book Now{{< /button>}}
-
-{{< separator >}}
-
 ## Yoga at ArtsEd 
 We are moving our practice indoors to the dance studios at Arts Ed.
 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
-
-NOTE: Class begin Saturday, September 18th.
 
 **Tuesday 7pm Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzQsMA==" >}}Book Now{{< /button>}}
 
@@ -67,8 +50,6 @@ NOTE: Class begin Saturday, September 18th.
 We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. [Hogarth Community Centre](https://hogarthtrust.org.uk)
 
 Location: the Hogarth Community Centre, Dukes Road, Chiswick W4 2JR (Upstairs Dojo)
-
-NOTE: Beginning Wednesday, September 22nd.
 
 **Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzUsMA==" >}}Book Now{{< /button>}}
 
@@ -89,6 +70,14 @@ Location: The Ionic Temple
 
 No additional classes at this time.  Thank you Chiswick House & Gardens for a great 2021 season.  We can't wait for next summer in the gardens.
 
+
+{{< separator >}}
+
+
+## Yoga on Chiswick Common
+Location: Chiswick Common (behind M&S)
+
+Classes have ended for the summer season.  Please check back spring of 2022.
 
 {{< separator >}}
 
