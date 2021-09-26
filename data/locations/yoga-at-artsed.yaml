@@ -1,0 +1,20 @@
+---
+title: "Yoga at ArtsEd"
+description: "As the weather gets cooler we're continuing yoga indoors, now at ArtsEd on Bath Road."
+image: "images/artsed_landing_cr.jpg"
+classes:
+  - "Vinyasa Flow":
+      description: "(All Levels Welcome)"
+      times:
+        - time:
+            daytime: "Tuesday 7:00 PM"
+            booking: "https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzQsMA=="
+        - time:
+            daytime: "Saturday 9:00 AM"
+            booking: "https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA=="
+  - "Power Vinyasa Flow":
+      description: "(Intermediates+)"
+      times:
+        - time:
+            daytime: "Saturday 10:00 AM"
+            booking: "https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzcsMA=="
