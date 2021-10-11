@@ -33,6 +33,8 @@ We are moving our practice indoors to the dance studios at Arts Ed.
 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
+* NOTE: No classes Saturday Nov 6th - Nov 13th. Practice will resume Monday Nov 15th.
+
 **Tuesday 7pm Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzQsMA==" >}}Book Now{{< /button>}}
 
 ---
@@ -51,6 +53,8 @@ We've moved inside the large spaces at the Hogarth Community Center to continue 
 
 Location: the Hogarth Community Centre, Dukes Road, Chiswick W4 2JR (Upstairs Dojo)
 
+* NOTE: No classes Saturday Nov 6th - Nov 13th. Practice will resume Monday Nov 15th.
+
 **Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzUsMA==" >}}Book Now{{< /button>}}
 
 --- 
@@ -58,6 +62,21 @@ Location: the Hogarth Community Centre, Dukes Road, Chiswick W4 2JR (Upstairs Do
 **Weekdays 9:30am Vinyasa Flow (All Levels)** Coming Soon!
 
 Please register your interest for these classes. {{< button href="mailto:yoga@kimsellis.com" >}}Email Now{{< /button>}}
+
+
+{{< separator >}}
+
+
+## Yoga at Snap Fitness Chiswick
+Group yoga classes are back in the fitness studio.  Non-club members can join these classes by buying a day pass (£10).  Call reception to book. Phone: 020 8987 0262
+
+Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
+
+**Monday 6:30pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
+
+--- 
+
+**Wednesday 6:30pm Vinyasa Power Flow (All Levels)**  Call 020 8987 0262 to book.
 
 
 {{< separator >}}
