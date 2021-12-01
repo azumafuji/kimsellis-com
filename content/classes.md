@@ -67,7 +67,7 @@ Group yoga classes are back in the fitness studio.  Non-club members can join th
 
 Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
-* Note: Due to the holiday season, classes will be paused December 13th thur Jan 9th.  Classes will resume Mon. January 10th, 2022.
+* Note: Due to the holiday season, classes will be paused December 13th thru Jan 9th.  Classes will resume Mon. January 10th, 2022.
 
 **Monday 6:30pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
 
