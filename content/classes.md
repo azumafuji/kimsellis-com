@@ -33,7 +33,7 @@ We are moving our practice indoors to the dance studios at Arts Ed.
 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
-* NOTE: Last class of the year Saturday December 18th. Happy Holidays! Practice will resume Saturday January 8th, 2022.
+* NOTE: Happy Holidays! Practice will resume Saturday January 8th, 2022.
 
 **Tuesday 7pm Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzQsMA==" >}}Book Now{{< /button>}}
 
