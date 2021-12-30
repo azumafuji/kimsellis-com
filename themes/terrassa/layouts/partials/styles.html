@@ -9,3 +9,6 @@
 {{ $css := $bundle | resources.Minify }}
 
 <link rel="stylesheet" href="{{ $css.Permalink }}?{{ now.Unix }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;700&family=Raleway:wght@400;700&display=swap" rel="stylesheet"> 

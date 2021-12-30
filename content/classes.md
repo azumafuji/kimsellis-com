@@ -11,7 +11,7 @@ weight: 30
 ## Buy a class pass
 You can use credits to book classes instead of paying for each class individually.  Save time and make it easier to change your reservations as needed.
 
-**10 Classes - 20 Credits** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwzMDk=" >}}Buy Now{{< /button>}}.      
+**10 Classes - 20 Credits** {{<button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwzMDk=">}}Buy Now{{</button>}}.      
 
 ---
 
@@ -35,29 +35,12 @@ Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
 * NOTE: Happy Holidays! Practice will resume Saturday January 8th, 2022.
 
-**Tuesday 7pm Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzQsMA==" >}}Book Now{{< /button>}}
-
-Please note this class has been paused temporarily.  Check back in Jan 2022.
-
----
 
 **Saturday 9am Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
 
 --- 
 
 **Saturday 10am POWER Vinyasa Flow (Intermediates Only)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzcsMA==" >}}Book Now{{< /button>}}
-
-{{< separator >}}
-
-
-## Yoga at the Hogarth Community Center
-We've moved inside the large spaces at the Hogarth Community Center to continue our yoga practice in the safest way we can. [Hogarth Community Centre](https://hogarthtrust.org.uk)
-
-Location: the Hogarth Community Centre, Dukes Road, Chiswick W4 2JR (Upstairs Dojo)
-
-* NOTE: Last class of the year December 15th.
-
-**Wednesday 7:45am Vinyasa Flow (All Levels)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzUsMA==" >}}Book Now{{< /button>}}
 
 {{< separator >}}
 
@@ -78,36 +61,11 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 {{< separator >}}
 
-
-## Yoga at the Ionic Temple 
-I'm so excited to have partnered with Chiswick House and Gardens!  The tranquil grounds of the Ionic Temple is the perfect place to find your bliss.  [More information about Chiswick House and Gardens](https://chiswickhouseandgardens.org.uk/event/yoga-at-the-ionic-temple-with-kim-sellis/).
-
-Location: The Ionic Temple
-
-No additional classes at this time.  Thank you Chiswick House & Gardens for a great 2021 season.  We can't wait for next summer in the gardens.
-
-
-{{< separator >}}
-
-
-## Yoga on Chiswick Common
-Location: Chiswick Common (behind M&S)
-
-Classes have ended for the summer season.  Please check back spring of 2022.
-
-{{< separator >}}
-
-
-## Online Yoga
-
-No classes at this time.
-
-{{< separator >}}
-
-
 ## More Options
 
 **Please [email](mailto:yoga@kimsellis.com) for futher information**
+ - Corporate classes 
+ - Yoga and Breathing classes for secondary school students and staff
  - Private 1:1 sessions as well as small groups
  - Yoga breathing for stress and anxiety 
  - Serving schools, corporate clients, community centres, festivals, and fitness centres.
