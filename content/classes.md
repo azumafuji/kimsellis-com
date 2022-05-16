@@ -33,7 +33,7 @@ We are moving our practice indoors to the dance studios at Arts Ed.
 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
-* NOTE: No Saturday Class April 9th and April 16th.  Class will resume on April 23rd.
+* NOTE: No Saturday Class June 4th. Happy jubilee weekend!  Class will resume June 11th.
 
 
 **Saturday 9am Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
@@ -51,11 +51,11 @@ Group yoga classes are back in the fitness studio.  Non-club members can join th
 Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 
-**Monday 6:30pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
+**Monday 6:40pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
 
 --- 
 
-**Wednesday 6:30pm Vinyasa Power Flow (All Levels)**  Call 020 8987 0262 to book.
+**Wednesday 6:40pm Vinyasa Power Flow (All Levels)**  Call 020 8987 0262 to book.
 
 
 {{< separator >}}
