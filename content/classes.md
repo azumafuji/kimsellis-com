@@ -33,7 +33,7 @@ We are moving our practice indoors to the dance studios at Arts Ed.
 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
-* NOTE: No Saturday Class June 4th. Happy jubilee weekend!  Class will resume June 11th.
+* NOTE: No Saturday Class June 18th. Class will resume June 25th.
 
 
 **Saturday 9am Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
