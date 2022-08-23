@@ -38,14 +38,14 @@ Practice indoors in the large the dance studios at Arts Ed.
 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
-* NOTE: We are taking a break through the summer. Class will resume mid September.
+* NOTE: Autumn Term 2022 - September 17 - December 17
 
 
-**Saturday 9am Slow Vinyasa Flow (All Levels Welcome)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
+**Saturday 9am Slow Vinyasa Flow (Beginners and Improvers)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
 
 --- 
 
-**Saturday 10am POWER Vinyasa Flow (Intermediates Only)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzcsMA==" >}}Book Now{{< /button>}}
+**Saturday 10am POWER Vinyasa Flow (Improvers and Intermediates)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzcsMA==" >}}Book Now{{< /button>}}
 
 {{< separator >}}
 
@@ -77,4 +77,4 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
     
 **You can always join me on [my YouTube channel](https://www.youtube.com/channel/UCHH2vOSl0Qxpv7Lw9wv45Sg).**
 
-There are videos for Slow Flow, Power, Strength, and Stretch so if you can't make a class you can still practice on your own time. 
+If you can't make a class, you can still practice on your own time.  There are videos for Slow Flow, Power, Strength, and Stretch.
