@@ -26,6 +26,6 @@ Any changes to my health status (medications, conditions, pregnancy, or injuries
 
 ## Cancellations/Refunds
 
-There will be no refunds unless government restrictions or an act of God require Kim Sellis Yoga to cancel class. If a student needs to cancel their spot, Kim Sellis Yoga must be notified via email (Yoga@kimsellis.com) 24hours in advance. Students will be given the option to be added to a different class of their choice or given a class voucher that is valid for 3 months. In the event of inclement weather, classes will take place online. Participants will be notified 60mins before class via email/text with a link.
+There will be no refunds unless government restrictions or an act of God require Kim Sellis Yoga to cancel class.  For outdoor classes, in the event of inclement weather, classes will take place online. Participants will be notified 60mins before class via email/text with a link.
 
 
