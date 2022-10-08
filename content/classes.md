@@ -39,6 +39,7 @@ Practice indoors in the large the dance studios at Arts Ed.
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
 * NOTE: Autumn Term 2022 - September 17 - December 17
+* NO CLASS Saturday, November 26th 
 
 
 **Saturday 9am Slow Vinyasa Flow (Beginners and Improvers)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
