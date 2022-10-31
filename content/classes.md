@@ -5,22 +5,6 @@ draft: false
 menu: main
 weight: 30
 ---
- - Register for class by clicking "Book Now" button below
- - Sign up for the full term for £8 per class
- - Buy a class pass for £10 per class
- - Drop in for £12 per class
- 
-
-## Buy a class pass
-You can use pass credits to book classes instead of paying for each class individually.  Class passes are slightly discounted from the drop in rate and give you the flexibilty to book in when it suits.  Please note that refunds will not be given for unused or expired credits.
-
-**10 Classes** {{<button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwzMDk=">}}Buy Now{{</button>}}.      
-
----
-
-**5 Classes** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/package-buy/djEuMCwyNjQ=" >}}Buy Now{{< /button>}}
-
-{{< separator >}}
 
 ## Access your profile 
 {{< button href="https://kim-sellis-yoga.reservie.net/" >}}Access Profile{{< /button>}}
@@ -34,19 +18,10 @@ You can use pass credits to book classes instead of paying for each class indivi
 
 
 ## Yoga at ArtsEd 
-Practice indoors in the large the dance studios at Arts Ed.
-
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
-* NOTE: Autumn Term 2022 - September 17 - December 17
-* NO CLASS Saturday, November 26th 
+* No classes at this time
 
-
-**Saturday 9am Slow Vinyasa Flow (Beginners and Improvers)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzYsMA==" >}}Book Now{{< /button>}}
-
---- 
-
-**Saturday 10am POWER Vinyasa Flow (Improvers and Intermediates)** {{< button href="https://kim-sellis-yoga.reservie.net/checkout/event/djEsMjIyLDcxMzcsMA==" >}}Book Now{{< /button>}}
 
 {{< separator >}}
 
