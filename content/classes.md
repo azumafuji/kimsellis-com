@@ -6,14 +6,6 @@ menu: main
 weight: 30
 ---
 
-## Access your profile 
-{{< button href="https://kim-sellis-yoga.reservie.net/" >}}Access Profile{{< /button>}}
-
-  - View classes booked 
-  - See your account status
-  - Keep tabs on remaining pass credits
-
-
 {{< separator >}}
 
 
@@ -36,7 +28,12 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 --- 
 
-**Wednesday 6:40pm Vinyasa Power Flow (All Levels)**  Call 020 8987 0262 to book.
+**Wednesday 6:40pm Vinyasa Power Flow**  Call 020 8987 0262 to book.
+
+--- 
+
+**Saturday 12pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
+
 
 
 {{< separator >}}
