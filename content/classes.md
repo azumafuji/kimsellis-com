@@ -9,11 +9,15 @@ weight: 30
 {{< separator >}}
 
 
-## Yoga at ArtsEd 
-Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
+## Yoga at The Proud Project 
+Location: 227-229 Chiswick High Rd., Chiswick W4 2DX. 
+Classes Start January 3, 2023
 
-* No classes at this time
+**Tuesday 12:30pm Beginner Vinyasa**  
 
+--- 
+**Thursday 12:30pm Beginner Vinyasa**
+**Thursday  1:30pm Vinyasa Flow**
 
 {{< separator >}}
 
@@ -34,6 +38,22 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 **Saturday 12pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
 
+{{< separator >}}
+
+
+## Yoga at More Yoga (Stamford Brook) 
+Location: 358 King Street, London W6 0RX. 
+Covering From December 15, 2022 - January 26, 2023
+  
+**Thursday 6:00pm Vinyasa Flow**
+**Thursday 7:15pm Yin**
+
+{{< separator >}}
+
+## Yoga at ArtsEd 
+Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
+
+* No classes at this time
 
 
 {{< separator >}}
