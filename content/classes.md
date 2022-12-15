@@ -17,6 +17,7 @@ Classes Start January 3, 2023
 
 --- 
 **Thursday 12:30pm Beginner Vinyasa**
+
 **Thursday  1:30pm Vinyasa Flow**
 
 {{< separator >}}
@@ -46,6 +47,7 @@ Location: 358 King Street, London W6 0RX.
 Covering From December 15, 2022 - January 26, 2023
   
 **Thursday 6:00pm Vinyasa Flow**
+
 **Thursday 7:15pm Yin**
 
 {{< separator >}}
