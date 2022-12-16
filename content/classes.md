@@ -12,6 +12,7 @@ weight: 30
 ## Yoga at The Proud Project 
 Location: 227-229 Chiswick High Rd., Chiswick W4 2DX.
 
+
 Classes Start January 3, 2023
 
 **Tuesday 12:30pm Beginner Vinyasa**  
@@ -47,6 +48,7 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 ## Yoga at More Yoga (Stamford Brook) 
 Location: 358 King Street, London W6 0RX. 
+
 
 Covering From December 15, 2022 - January 26, 2023
   
