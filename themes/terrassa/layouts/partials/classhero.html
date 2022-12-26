@@ -20,7 +20,7 @@
 
                     {{ range $classname, $timetable := $class}}
                         <h3>{{ $classname }}</h3>
-                        <p style="font-size: 0.9em; white-space: nowrap;">{{ .description }}</p>
+                        <p style="font-size: 0.9em;">{{ .description }}</p>
                         {{ range $tindex, $classtimes := $timetable.times }}
                             <p>
                                 <a href="{{ $classtimes.time.booking }}" target="_blank"

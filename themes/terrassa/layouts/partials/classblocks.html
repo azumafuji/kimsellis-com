@@ -2,7 +2,7 @@
 {{ $len := (len $items) }}
 {{ $.Scratch.Set "classblocks" 0 }}
 
-<h1 class="section__title" id="classes">Current Classes</h1>
+<h1 class="section__title" id="classes">Now teaching at these locations...</h1>
 
 {{ range $i, $e := $items }}
 {{ $.Scratch.Set "classblocks" (add ($.Scratch.Get "classblocks") 1) }}
