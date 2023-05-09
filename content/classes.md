@@ -35,7 +35,7 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 --- 
 
-**Wednesday 6:40pm Vinyasa Power Flow**  Call 020 8987 0262 to book.
+**Wednesday 7:00am Vinyasa Flow**  Call 020 8987 0262 to book.
 
 --- 
 
