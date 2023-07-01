@@ -39,7 +39,7 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 --- 
 
-**Saturday 12pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
+**Saturday 9am Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
 
 {{< separator >}}
 
