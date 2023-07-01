@@ -56,6 +56,14 @@ Location: 358 King Street, London W6 0RX.
 
 {{< separator >}}
 
+## Yoga at More Yoga (Victoria) 
+Location: Queeen Mother Sports Centre,223 Vauxhall Bridge Rd, London SW1V 1EL. 
+
+
+**Wednessday 12:30pm Hot Vinyasa Flow**
+
+{{< separator >}}
+
 ## Yoga at ArtsEd 
 Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
 
