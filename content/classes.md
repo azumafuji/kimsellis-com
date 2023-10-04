@@ -10,10 +10,10 @@ weight: 30
 
 
 ## Yoga at The Proud Project 
-Location: 227-229 Chiswick High Rd., Chiswick W4 2DX.
+Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 
-**Tuesday 12:30pm Beginner Vinyasa**  
+**Tuesday 10:30am Beginner Vinyasa**  
 
 --- 
 **Thursday 12:30pm Beginner Vinyasa**
@@ -45,32 +45,30 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 
 ## Yoga at More Yoga (Stamford Brook) 
-Location: 358 King Street, London W6 0RX. 
+Location: 358 King Street, London W6 0RX 
 
   
-**Thursday 6:00pm Vinyasa Flow**
+**Thursday 5:30pm Power Flow**
 
 ---
 
-**Thursday 7:15pm Yin**
+**Thursday 6:25pm Vinyasa Flow**
 
-{{< separator >}}
+---
 
-## Yoga at More Yoga (Victoria) 
-Location: Queeen Mother Sports Centre,223 Vauxhall Bridge Rd, London SW1V 1EL. 
-
-
-**Wednessday 12:30pm Hot Vinyasa Flow**
-
-{{< separator >}}
-
-## Yoga at ArtsEd 
-Location: Arts Ed, Cone Ripman House, 14 Bath Rd, Chiswick W4 1LY. (Studio #10)
-
-* No classes at this time
+**Thursday 7:35pm Yin**
 
 
 {{< separator >}}
+
+
+## Yoga at The Mode Club (Acton) 
+Location: 36 Bromyard Ave, London W3 7AU 
+
+  
+**Monday 9:25am Vinyasa Flow**
+
+---
 
 ## More Options
 
