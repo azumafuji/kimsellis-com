@@ -23,6 +23,7 @@ Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 ## Yoga at Snap Fitness Chiswick
 Group yoga classes are back in the fitness studio.  Non-club members can join these classes by buying a day pass (£10).  Call reception to book. Phone: 020 8987 0262
+
 Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 
