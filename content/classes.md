@@ -22,20 +22,20 @@ Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 
 ## Yoga at Snap Fitness Chiswick
-Group yoga classes are back in the fitness studio.  Non-club members can join these classes by buying a day pass (£10).  Call reception to book. Phone: 020 8987 0262
+Group yoga classes are back in the fitness studio.  Must be a club member to book.
 
 Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 
-**Monday 6:40pm Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
+**Monday 6:40pm Vinyasa Slow Flow (All Levels)**  
 
 --- 
 
-**Wednesday 7:00am Vinyasa Flow**  Call 020 8987 0262 to book.
+**Wednesday 7:00am Power Vinyasa Flow**  
 
 --- 
 
-**Saturday 9am Vinyasa Slow Flow (All Levels)**  Call 020 8987 0262 to book.
+**Saturday 9am Vinyasa Slow Flow (All Levels)**  
 
 {{< separator >}}
 
@@ -44,7 +44,7 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 Location: 358 King Street, London W6 0RX 
 
   
-**Thursday 7:30pm Morning Flow**
+**Thursday 7:30am Morning Flow**
 
 
 {{< separator >}}
@@ -54,7 +54,7 @@ Location: 358 King Street, London W6 0RX
 Location: 36 Bromyard Ave, London W3 7AU 
 
   
-**Monday 9:25am Vinyasa Flow**
+**only subbing classes at this time**
 
 ---
 
