@@ -31,10 +31,6 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 --- 
 
-**Wednesday 7:00am Power Vinyasa Flow**  
-
---- 
-
 **Saturday 9am Vinyasa Slow Flow (All Levels)**  
 
 {{< separator >}}
@@ -45,6 +41,10 @@ Location: 358 King Street, London W6 0RX
 
   
 **Thursday 7:30am Morning Flow**
+
+--- 
+
+**Thursday 10am Vinyasa Flow**  
 
 
 {{< separator >}}
