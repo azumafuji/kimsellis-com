@@ -13,10 +13,7 @@ weight: 30
 Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 
-**Tuesday 10:30am Beginner Vinyasa**  
-
---- 
-**Thursday 12:30pm Beginner Vinyasa**
+**Sunday 10:00am Vinyasa Flow**  
 
 {{< separator >}}
 
@@ -40,11 +37,7 @@ Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 Location: 358 King Street, London W6 0RX 
 
   
-**Thursday 7:30am Morning Flow**
-
---- 
-
-**Thursday 10am Vinyasa Flow**  
+**only subbing classes at this time**
 
 
 {{< separator >}}
