@@ -11,4 +11,9 @@ Kim is a former pharmaceutical biologist originally from Chicago. Her love for f
 
 Kim’s yoga stems from her love of science and sport. She is welcoming, motivational and teaches to everyone’s unique anatomy. Her classes are filled with the rhythm of breath as you flow into the next pose. You will always leave class with a bit more length, strength, and a sense of calm.
 
+{{< separator >}}
+
+
+**Please note... I have paused most of my classes and private clients as I complete my master's degree in Physiotherapy (September 2024 - September 2026).**
+
 {{< figure src="/images/profile.jpg" class="profile" title="" >}}
