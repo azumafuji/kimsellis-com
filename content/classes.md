@@ -8,7 +8,7 @@ weight: 30
 {{< separator >}}
 
 
-## Please note... I have paused most of my classes and private clients as I work on my Master's Degree in Physiotherapy. (September 2024 - September 2026).  
+## Please note... I have paused most of my classes and private clients as I work on my master's degree in Physiotherapy. (September 2024 - September 2026).  
 
 
 {{< separator >}}
