@@ -8,7 +8,9 @@ weight: 30
 {{< separator >}}
 
 
-## Please note... I have paused most of my classes and private clients as I work on my master's degree in Physiotherapy. (September 2024 - September 2026).  
+## Please note... I have paused most of my classes and private clients as I work on my master's degree in Physiotherapy. 
+
+(September 2024 - September 2026).  
 
 
 {{< separator >}}
@@ -18,7 +20,7 @@ weight: 30
 Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 
-**Sunday 10:00am Vinyasa Flow**  
+**Saturday 10:15am Vinyasa Flow**  
 
 {{< separator >}}
 
@@ -29,7 +31,7 @@ Group yoga classes are back in the fitness studio.  Must be a club member to boo
 Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
 
 
-**Only substitute/cover classes at this time**  
+**Saturday 9:00am Vinyasa Flow**   
  
 
 {{< separator >}}
