@@ -20,19 +20,7 @@ weight: 30
 Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 
-**Saturday 10:15am Vinyasa Flow**  
-
-{{< separator >}}
-
-
-## Yoga at Snap Fitness Chiswick
-Group yoga classes are back in the fitness studio.  Must be a club member to book.
-
-Location: 500 Chiswick High Rd, Chiswick, London W4 5RG
-
-
-**Saturday 9:00am Vinyasa Flow**   
- 
+**only substitute/cover classes at this time**  
 
 {{< separator >}}
 
