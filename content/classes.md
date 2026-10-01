@@ -12,6 +12,13 @@ weight: 30
 
 (September 2024 - September 2026).  
 
+{{< separator >}}
+
+
+## Yoga at W6 Gym (Stamford Brook) 
+Location: Arch 200 Prebend Gardens, London W6 0XT
+ 
+**Tuesday and Thursday 7am - 8am **
 
 {{< separator >}}
 
@@ -34,12 +41,6 @@ Location: 358 King Street, London W6 0RX
 
 {{< separator >}}
 
-
-## Yoga at The Mode Club (Acton) 
-Location: 36 Bromyard Ave, London W3 7AU 
-
-  
-**only subbing classes at this time**
 
 ---
 
