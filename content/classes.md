@@ -15,10 +15,10 @@ weight: 30
 {{< separator >}}
 
 
-## Yoga at W6 Gym (Stamford Brook) 
+## Yoga at W6 Gym  
 Location: Arch 200 Prebend Gardens, London W6 0XT
  
-**Tuesday and Thursday 7am - 8am **
+**Tuesday and Thursday 7am - 8am Vinyasa Flow**
 
 {{< separator >}}
 
