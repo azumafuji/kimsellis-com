@@ -19,7 +19,9 @@ weight: 30
 Location: Arch 200 Prebend Gardens, London W6 0XT
  
 **Monday 6:30pm - 7:30pm Vinyasa Flow**
+
 **Tuesday 7am - 8am Vinyasa Flow**
+
 **Thursday 7am - 8am Vinyasa Flow**
 
 {{< separator >}}
