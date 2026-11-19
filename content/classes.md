@@ -31,7 +31,7 @@ Location: Arch 200 Prebend Gardens, London W6 0XT
 Location: 227-229 Chiswick High Rd., Chiswick W4 2DX
 
 
-**only substitute/cover classes at this time**  
+**Wednesday 7:30pm - 8:30pm Vinyasa Flow**  
 
 {{< separator >}}
 
